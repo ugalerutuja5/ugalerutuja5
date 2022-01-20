@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ugalerutuja5
-- 👀 I’m interested in Explore Git And Github
-- 🌱 I’m currently learning How Upload file on Github
-- 💞️ I’m looking to collaborate on Python proagarmming
+- 👀 I’m interested in Explore Data Science
+- 🌱 I’m currently learning How to clean raw Data
+- 💞️ I’m looking to collaborate on Macine Learning Model
 - 📫 How to reach me ...
 
 <!---
